@@ -1,0 +1,17 @@
+.DS_Store
+.svn*
+obj/
+bin/
+*.suo
+*.user
+Log/
+log/
+*.db
+*.pdf
+*.docx
+*.zip
+data/
+*.pgm
+.ipynb_checkpoints
+_pycache_/
+*.pyc
